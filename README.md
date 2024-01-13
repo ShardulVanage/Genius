@@ -12,8 +12,8 @@ Prisma Studio is a visual editor for the data in your database. Note that Prisma
 npx prisma studio
 ```
 **STRIPE-CLI**
-Go to this website :
-<a>```bash
+Go to this website : <br/>
+<a>
 https://stripe.com/docs/stripe-cli
-```</a>
+</a>
 after installing exe file open it in cmd or add it to environment variable PATH 
