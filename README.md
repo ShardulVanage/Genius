@@ -57,3 +57,5 @@ Start the app
 ```bash
 npm run dev
 ```
+
+(use neon.tech for database : <a> https://neon.tech</a>)
