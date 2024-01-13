@@ -1,6 +1,6 @@
 # Genius
 
-PRISMA
+**PRISMA**
 ```bash
 npx prisma db push
 ```
@@ -11,3 +11,9 @@ Prisma Studio is a visual editor for the data in your database. Note that Prisma
 ```bash
 npx prisma studio
 ```
+**STRIPE-CLI**
+Go to this website :
+```bash
+<a>https://stripe.com/docs/stripe-cli</a>
+```
+after installing exe file open it in cmd or add it to environment variable PATH 
