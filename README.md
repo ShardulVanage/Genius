@@ -11,7 +11,7 @@ Prisma Studio is a visual editor for the data in your database. Note that Prisma
 ```bash
 npx prisma studio
 ```
-**STRIPE-CLI**
+**STRIPE-CLI**<br/>
 Go to this website : <br/>
 <a>
 https://stripe.com/docs/stripe-cli
