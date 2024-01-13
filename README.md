@@ -13,7 +13,7 @@ npx prisma studio
 ```
 **STRIPE-CLI**
 Go to this website :
-```bash
-<a>https://stripe.com/docs/stripe-cli</a>
-```
+<a>```bash
+https://stripe.com/docs/stripe-cli
+```</a>
 after installing exe file open it in cmd or add it to environment variable PATH 
