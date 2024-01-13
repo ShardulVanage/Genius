@@ -49,6 +49,13 @@ STRIPE_WEBHOOK_SECRET=
 
 NEXT_PUBLIC_APP_URL="http://localhost:3000"
 ```
+**CRISP**
+go this website create account and setup it : <a>https://crisp.chat/en/<a/> <br/>
+Go the setup and add CRISP_WEBSITE_ID to Crisp.tsx(Components)
+
+```bash
+CRISP_WEBSITE_ID="9d6ea7ef-xxc9-xxb0-xx1e-xxd7351d97xx"
+```
 **install packages**
 ```bash
 npm i
