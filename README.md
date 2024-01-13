@@ -15,5 +15,16 @@ npx prisma studio
 Go to this website : <br/>
 <a>
 https://stripe.com/docs/stripe-cli
-</a>
-after installing exe file open it in cmd or add it to environment variable PATH 
+</a><br/>
+<p>
+  after installing exe file open it in cmd or add it to environment variable PATH ,then
+</p>
+
+```bash
+stripe login
+```
+open link on your browser and grant the access,then run the next command
+```bash
+stripe listen --forward-to localhost:3000/api/webhook
+```
+copy and past the webhook-key in env
