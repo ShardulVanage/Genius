@@ -4,35 +4,35 @@ import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 
 const testimonials = [
   {
-    name: "Joel",
-    avatar: "J",
-    title: "Software Engineer",
-    description: "This is the best application I've ever used!",
+    name: "Smriti Gujjar",
+    avatar: "S",
+    title: "CSE ( IoT & cyber security including Blockchain Technology) ",
+    description: "Designed and implemented a user-friendly and visually appealing front-end for the project, ensuring an optimal user experience.",
   },
   {
-    name: "Antonio",
+    name: "Radha Jha",
     avatar: "A",
-    title: "Designer",
-    description: "I use this daily for generating new photos!",
+    title: "CSE ( IoT & cyber security including Blockchain Technology) ",
+    description: "Designed and implemented the database schema for user authentication,including the definition of user data and relationships.",
   },
   {
-    name: "Mark",
+    name: "Madanmohan Jha",
     avatar: "M",
-    title: "CEO",
-    description: "This app has changed my life, cannot imagine working without it!",
+    title: "CSE ( IoT & cyber security including Blockchain Technology) ",
+    description: "Developed and implemented an API to seamlessly integrate the AI model into the project",
   },
   {
-    name: "Mary",
+    name: "Shardul Vanage",
     avatar: "M",
-    title: "CFO",
-    description: "The best in class, definitely worth the premium subscription!",
+    title: "CSE ( IoT & cyber security including Blockchain Technology) ",
+    description: "Facilitated secure payments through Stripe integration and implemented Crisp for efficient customer support",
   },
 ];
 
 export const LandingContent = () => {
   return (
     <div className="px-10 pb-20">
-      <h2 className="text-center text-4xl text-white font-extrabold mb-10">Testimonials</h2>
+      <h2 className="text-center text-4xl text-white font-extrabold mb-10">Developed By</h2>
       <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
         {testimonials.map((item) => (
           <Card key={item.description} className="bg-[#192339] border-none text-white">
