@@ -48,8 +48,8 @@ export const LandingContent = () => {
               </CardContent>
             </CardHeader>
           </Card>
-        ))} */}
-      </div>
+        ))} 
+      </div>*/}
     </div>
   )
 }
